@@ -4,7 +4,7 @@
 
 一个美观实用的待办事项清单应用，采用手绘风格设计，帮助您轻松管理日常任务。
 
-![应用预览](./assets/preview.png)
+<img src="./assets/preview.png" alt="应用预览" width="400" />
 
 ## ✨ 功能特点
 
