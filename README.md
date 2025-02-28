@@ -20,7 +20,7 @@
 
 ### 在线体验
 
-访问 [待办事项清单](https://epiphany-cl.github.io/handwritten-todo-list/) 立即体验（替换为您的实际部署链接）
+访问 [待办事项清单](https://epiphany-cl.github.io/handwritten-todo-list/) 立即体验
 
 ### 本地运行
 
