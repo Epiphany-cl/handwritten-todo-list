@@ -28,7 +28,7 @@
 
 ```bash
 git clone https://github.com/Epiphany-cl/handwritten-todo-list.git
-cd todo-list
+cd handwritten-todo-list
 ```
 
 2. 使用任意HTTP服务器运行项目
